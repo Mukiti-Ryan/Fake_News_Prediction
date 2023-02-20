@@ -7,7 +7,7 @@ A Machine Learning Model trained to predict fake news. The model has an accuracy
 | FAKE         |   0.93    |  0.92  |   0.93   |  638    |
 | REAL         |   0.92    |  0.93  |   0.93   |  629    |
 |              |                                         |
-| ACCURACY     |                    |   0.93   |  1267   |    
+| ACCURACY     |           |        |   0.93   |  1267   |    
 | MACRO AVG    |   0.93    |  0.93  |   0.93   |  1267   |
 | WEIGHTED AVG |   0.93    |  0.93  |   0.93   |  1267   |
 |  TRUE POSITIVES  | 587    |
